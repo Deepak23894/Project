@@ -26,6 +26,18 @@ Assert.assertEquals(200, statuscode);
 
 }
 }
+
+
+ouptput::
+
+-----------------------------------------------------------
+{
+    "message": "Otp sent",
+    "user": {
+        "authentication_via": "via_any"
+    },
+    "verify_device": true
+}
 ------------------------------------------------------------
 using parameterization passing credentials
 
